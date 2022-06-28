@@ -1,0 +1,24 @@
+
+Get all task === Axios.Get()
+
+https://firstsaniadata.herokuapp.com/api/v1/tasks
+
+=================================
+Post single task === Axios.Post()
+
+https://firstsaniadata.herokuapp.com/api/v1/tasks
+
+=================================
+bring single task === Axios.get()
+
+https://firstsaniadata.herokuapp.com/api/v1/tasks/id
+
+=======================
+update task === Axios.update()
+
+https://firstsaniadata.herokuapp.com/api/v1/tasks/id
+
+=======================
+bring Delete task === Axios.delete()
+
+https://firstsaniadata.herokuapp.com/api/v1/tasks/id
